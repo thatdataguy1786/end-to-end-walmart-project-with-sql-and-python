@@ -1,0 +1,3 @@
+pandas
+sqlalchemy (to write sql)
+psycopg (to connect to postgresql)
